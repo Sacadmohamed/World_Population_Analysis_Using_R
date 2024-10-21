@@ -9,9 +9,9 @@ The analysis provides in-depth insights into various aspects of global demograph
 
 Then it later on displays the results in a dashboard by utilizing the shinyApp.
 
-![image](https://github.com/user-attachments/assets/b7b763d3-7847-4b48-875b-fa27a18992ad)
-
 ![image](https://github.com/user-attachments/assets/fd230020-9b6c-44ac-a490-bf980aa151b2)
+
+![image](https://github.com/user-attachments/assets/b7b763d3-7847-4b48-875b-fa27a18992ad)
 
 ![image](https://github.com/user-attachments/assets/e78f667c-d1e2-4305-8b3e-30c74023280d)
 
