@@ -6,4 +6,12 @@ The analysis provides in-depth insights into various aspects of global demograph
 - World Share: An analysis of how each region contributes to the total global population.
 - Fertility Rate: Insights into birth rates across various regions, highlighting trends and variations.
 - Net Migration: An exploration of migration patterns, including the flow of people in and out of different regions.
+
 Then it later on displays the results in a dashboard by utilizing the shinyApp.
+
+
+## Tools ###
+- R Studio
+- R shinyApp
+- Webserver: Shinyapps.io
+
